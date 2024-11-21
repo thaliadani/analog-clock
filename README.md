@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Analog CLock</h1>
+<h1>Analog Clock</h1>
 </div><br>
 
 <div>
